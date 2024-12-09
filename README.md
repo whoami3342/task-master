@@ -17,5 +17,5 @@
 1. Клонируйте репозиторий.
 2. Запустите main.py с помощью Python 3.
 
-bash
+```bash
 python main.py
