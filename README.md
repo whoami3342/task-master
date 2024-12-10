@@ -73,3 +73,10 @@
 ### Сохранение и выход
 
 1. Нажмите кнопку "Сохранить и выйти", чтобы сохранить все изменения и закрыть приложение.
+
+### Скриншоты
+
+![image](https://github.com/user-attachments/assets/94faee4c-eabe-4d66-81cc-7b178a009e89)
+![image](https://github.com/user-attachments/assets/3c3303b3-5a63-4ba0-8ca0-19e5fa1e9ca6)
+![image](https://github.com/user-attachments/assets/d7f701e8-f83e-430e-a4c8-f4b178325546)
+![image](https://github.com/user-attachments/assets/8bf15ebd-2e51-44ac-9ed6-a01833e78d26)
